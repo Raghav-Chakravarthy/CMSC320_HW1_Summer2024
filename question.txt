@@ -1,0 +1,3 @@
+Question: Why are you interested in taking CMSC320?
+
+Answer: I would like to take CMSC320, as I am a computationally minded person, who loves finding patterns in anything I do. As a result, Data Science fascinates me, and I would love to take this course to further my knowledge in the field while doing hands-on assignments to learn about the topic. Additionally, this course opens the door to many other interesting topics in the field of AI/ML, Natural Language Processing, Human-Computer Interaction, etc.
